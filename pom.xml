@@ -222,7 +222,7 @@
 <xml-maven-plugin.version>1.0.2</xml-maven-plugin.version>
 <xmlunit2.version>2.9.1</xmlunit2.version>
 </properties>
-<dependencyManagement>
+
 <dependencies>
 <dependency>
 <groupId>org.apache.activemq</groupId>
@@ -2785,7 +2785,7 @@
 <scope>import</scope>
 </dependency>
 </dependencies>
-</dependencyManagement>
+
 <build>
 <pluginManagement>
 <plugins>
